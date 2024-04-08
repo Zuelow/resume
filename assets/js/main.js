@@ -41,7 +41,7 @@ $(function ($) {
     var $typed = $("#typed");
     if ($typed.length > 0) {
       $typed.typed({
-        strings: ["Cybersecurity", "Leadership and Management", "Coding", "Web design", "Creative Writing", "Organizatorial Learning", "Office", "Operating Systems", "Artificial Intelligence"],
+        strings: ["Cybersecurity", "Leadership and Management", "Coding", "AI", "Office", "Web design", "Creative Writing", "Organizatorial Learning", "Office", "Operating Systems", "Artificial Intelligence"],
         stringsElement: null,
         typeSpeed: 10,
         startDelay: 150,
